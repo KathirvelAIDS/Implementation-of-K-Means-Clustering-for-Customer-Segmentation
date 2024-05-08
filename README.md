@@ -73,59 +73,36 @@ plt.title("Customer Segments")
 ## Output:
 
 
-DATA.HEAD():
-
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/8a60f9cd-a5ca-43d9-aa27-5e8002bcfabd)
 
 
-
-DATA.info():
-
-
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/99555b1e-f1da-489f-8ade-3290c0bb0e18)
+![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/0e3e45f6-1758-46a2-af2b-d2c48be66d62)
 
 
 
 
-NULL VALUES:
-
-
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/40ffa4dc-a7ba-4cd9-ad77-833b22885dc4)
-
-
-
-ELBOW GRAPH:
-
-
-
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/fd156d40-431c-42ce-872e-075698f48dd9)
+![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/2965432b-7088-4628-9908-79b5b3551848)
 
 
 
 
-CLUSTER FORMATION:
 
 
 
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/c7b31969-c519-46d7-9264-4aa85bf9fea6)
-
-
-
-
-PREDICICTED VALUE:
-
-
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/11d8c3ee-9f34-49f6-9db5-2a941a7c137b)
+![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/d96a7b66-18c8-456e-98dc-ca5d44aefeca)
 
 
 
 
-FINAL GRAPH(D/O):
+
+
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/81361826-f3a5-4d3c-bc72-64e8c5c23075)
 
 
 
 
-![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/4fde4b6a-c249-4539-8b45-065190526922)
+
+![image](https://github.com/KathirvelAIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/94911373/12739294-8e4a-49fc-b53b-3696958f0889)
 
 
 
